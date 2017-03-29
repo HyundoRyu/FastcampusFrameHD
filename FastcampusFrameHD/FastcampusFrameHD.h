@@ -17,3 +17,6 @@ FOUNDATION_EXPORT const unsigned char FastcampusFrameHDVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <FastcampusFrameHD/PublicHeader.h>
 
 
+// .h
+// 다른 프로젝트에서 임포트하기 위해 필요?
+// target - buildPhase - header - public 에 꼭 위치해야
